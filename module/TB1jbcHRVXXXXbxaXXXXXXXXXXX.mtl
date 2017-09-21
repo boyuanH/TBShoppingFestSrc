@@ -1,0 +1,237 @@
+newmtl blinn2SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl boxOffice_cleanup02:blackPiramide_SHDSG
+illum 4
+Kd 0.00 0.01 0.07
+Ka 0.00 0.00 0.00
+Tf 0.75 0.73 0.70
+Ni 1.00
+Ks 1.00 0.92 0.81
+newmtl boxOffice_cleanup02:neon_SHDSG
+illum 4
+Kd 1.00 0.58 0.00
+Ka 1.00 0.58 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 1.00 1.00 1.00
+Tf 0.03 0.03 0.03
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.94 0.77 0.56
+Ka 0.65 0.65 0.65
+Tf 0.05 0.05 0.05
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert4SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert4SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert5SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert5SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl rings_lambert5SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl ssA2bSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1XkprSXXXXXaVXXXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl ssAbSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1on7MRVXXXXX7aXXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl ssCbSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1fEQ_RVXXXXXqXFXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl ssDbSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1TwcWRVXXXXbtXVXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl ssEbSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1ywQPRVXXXXXmaXXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl ssHbSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1NzxXSXXXXXbWXpXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader1SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1gHpoSXXXXXbjXXXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader3SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1NrE_RVXXXXb5XpXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader4SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1e6k1RVXXXXXKXVXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader5SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB136wVRVXXXXbIXVXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader6SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1xARjSXXXXXcSXXXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader9SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB17xg9RVXXXXaaXFXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader11SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1fFZURVXXXXcCXVXXXXXXXXXX-1280-1280.jpg
+Ni 1.00
+newmtl surfaceShader14SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1XSJcSXXXXXbOXpXXXXXXXXXX-512-512.jpg
+Ni 1.00
+newmtl surfaceShader15SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1G4sWRVXXXXbhXVXXXXXXXXXX-1024-1024.jpg
+Ni 1.00
+newmtl surfaceShader16SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd z_bridge_ss.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl surfaceShader19SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl surfaceShader20SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl surfaceShader21SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1hHr6RVXXXXb4apXXXXXXXXXX-512-512.jpg
+Ni 1.00
+newmtl surfaceShader22SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl surfaceShader23SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd  https://gw.alicdn.com/mt/TB1dHgTRVXXXXalXXXXXXXXXXXX-1748-232.jpg
+Ni 1.00
+newmtl v017_Exports___SHD1SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
