@@ -8,10 +8,10 @@ pageData = {
     "saleLink": "http://huodong.m.taobao.com/act/2017taobaomaker.html?spm=a1z3i.a4.0.0.cjpoV2",
     "downGradeLink": "https://g.alicdn.com/fdilab/app-flyover-taobao-video/0.1.3/index.html",
     "normalVideos": {
-        "east": "https://gw.alicdn.com/bao/uploaded/LB11EkORVXXXXagXXXXXXXXXXXX.mp4",
-        "west": "https://gw.alicdn.com/bao/uploaded/LB1TxQeRVXXXXc7XVXXXXXXXXXX.mp4",
-        "south": "https://gw.alicdn.com/bao/uploaded/LB11qAMRVXXXXcEXXXXXXXXXXXX.mp4",
-        "north": "https://gw.alicdn.com/bao/uploaded/LB16ukNRVXXXXaKXXXXXXXXXXXX.mp4"
+        "east": "video/LB11EkORVXXXXagXXXXXXXXXXXX.mp4",
+        "west": "video/LB1TxQeRVXXXXc7XVXXXXXXXXXX.mp4",
+        "south": "video/LB11qAMRVXXXXcEXXXXXXXXXXXX.mp4",
+        "north": "video/LB16ukNRVXXXXaKXXXXXXXXXXXX.mp4"
     },
     "lowLink": ""
 }
