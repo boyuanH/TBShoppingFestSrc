@@ -23901,7 +23901,7 @@
       , o = n({
         saleLink: "https://detail.tmall.com/item.htm?id=549912705079",
         downGradeLink: "https://detail.tmall.com/item.htm?id=549912705079",
-        music: "https://gw.alicdn.com/bao/uploaded/TB1gkM6RVXXXXc6XpXXXXXXXXXX.mp3",
+        music: "video/Times Change.mp3",
         share: {
             shareTitle: "造物节home.bundle.jstitle23906",
             shareText: "飞跃淘宝home.bundle.js内容23907",
